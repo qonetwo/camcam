@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="camcam.main" target="1.8" />
+      <module name="camcam.nda.main" target="1.8" />
+      <module name="camcam.nda.test" target="1.8" />
+      <module name="camcam.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
